@@ -14,6 +14,31 @@ Este repositorio esta publico **apenas para demonstracao de portifolio**.
 
 ---
 
+## Visao
+
+Ser a principal vitrine digital de Guapimirim, apresentando a cidade como destino de natureza, cultura e aventura com identidade local forte.
+
+## Missao
+
+Conectar turista e territorio: facilitar o planejamento da viagem, revelar experiencias reais da cidade e fortalecer a economia local com mais visibilidade para pousadas, restaurantes, guias e negocios da regiao.
+
+## O que o projeto tem
+
+- Catalogo de atracoes com filtros por perfil (trilhas, cachoeiras, mirantes, historico, familia, aventura e vida selvagem)
+- Roteiros prontos para diferentes tipos de visitante
+- Calendario de eventos da cidade
+- Areas dedicadas para onde comer, onde ficar e guias turisticos
+- Mapa interativo com pontos geolocalizados
+- Area comercial para parceiros locais anunciarem servicos
+
+## O que ele faz na pratica
+
+O ExploreGuapi organiza a jornada do visitante em um unico lugar: inspira, informa e ajuda a decidir o que fazer em Guapimirim.
+
+Ao mesmo tempo, funciona como canal de divulgacao para empreendedores locais, aproximando o turista dos servicos da cidade.
+
+---
+
 ## Funcionalidades
 
 - Home com destaques da cidade
